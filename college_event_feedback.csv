@@ -1,0 +1,501 @@
+Response_ID,Event_Name,Department,Year,Overall_Rating,Content_Rating,Organization_Rating,Speaker_Rating,Would_Recommend,Feedback_Text,Sentiment_Score,Sentiment_Label
+1,Tech Fest,ME,Final Year,2,2,5,5,No,Not satisfied with the arrangements.,-0.25,Negative
+2,Tech Fest,MBA,Final Year,5,5,2,2,Yes,Overall a decent experience.,0.083333333,Neutral
+3,Workshop,ME,Final Year,2,1,5,4,Yes,Poor management but topic was interesting.,0.05,Neutral
+4,Cultural Fest,EE,Final Year,2,4,1,4,Yes,Not satisfied with the arrangements.,-0.25,Negative
+5,Cultural Fest,EE,3rd Year,2,5,1,3,No,Good experience but could be improved.,0.7,Positive
+6,Cultural Fest,MBA,2nd Year,1,3,1,4,Yes,Not satisfied with the arrangements.,-0.25,Negative
+7,Tech Fest,CE,Final Year,5,4,5,1,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+8,Sports Meet,ECE,Final Year,3,1,3,2,No,Excellent speakers and great content.,0.9,Positive
+9,Tech Fest,CE,3rd Year,5,2,5,4,No,Not satisfied with the arrangements.,-0.25,Negative
+10,Sports Meet,EE,3rd Year,3,2,5,5,No,Not satisfied with the arrangements.,-0.25,Negative
+11,Seminar,CE,1st Year,5,2,3,2,Yes,Good experience but could be improved.,0.7,Positive
+12,Tech Fest,ME,Final Year,5,3,3,4,No,The event was very informative and well organized.,0.2,Positive
+13,Tech Fest,ME,1st Year,2,4,3,1,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+14,Tech Fest,EE,Final Year,3,5,2,3,No,Overall a decent experience.,0.083333333,Neutral
+15,Cultural Fest,EE,2nd Year,3,4,5,3,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+16,Cultural Fest,CE,3rd Year,3,2,2,2,Yes,Excellent speakers and great content.,0.9,Positive
+17,Sports Meet,CE,3rd Year,5,3,4,1,Yes,Overall a decent experience.,0.083333333,Neutral
+18,Sports Meet,ME,1st Year,3,2,4,1,Yes,Good experience but could be improved.,0.7,Positive
+19,Tech Fest,ECE,1st Year,5,1,5,1,No,Poor management but topic was interesting.,0.05,Neutral
+20,Sports Meet,MBA,3rd Year,1,4,1,4,No,Overall a decent experience.,0.083333333,Neutral
+21,Cultural Fest,ECE,3rd Year,2,3,3,3,Yes,Not satisfied with the arrangements.,-0.25,Negative
+22,Sports Meet,EE,3rd Year,4,2,2,1,No,Good experience but could be improved.,0.7,Positive
+23,Seminar,CE,Final Year,1,3,4,5,No,Overall a decent experience.,0.083333333,Neutral
+24,Cultural Fest,ECE,Final Year,3,1,5,4,No,Poor management but topic was interesting.,0.05,Neutral
+25,Seminar,CE,2nd Year,2,1,1,5,Yes,Excellent speakers and great content.,0.9,Positive
+26,Sports Meet,CSE,Final Year,2,4,5,5,No,Excellent speakers and great content.,0.9,Positive
+27,Workshop,ME,3rd Year,2,3,1,2,Yes,Poor management but topic was interesting.,0.05,Neutral
+28,Tech Fest,MBA,Final Year,2,2,5,4,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+29,Cultural Fest,CE,1st Year,3,2,3,5,No,Not satisfied with the arrangements.,-0.25,Negative
+30,Seminar,MBA,3rd Year,2,5,3,4,No,Poor management but topic was interesting.,0.05,Neutral
+31,Workshop,CE,Final Year,4,2,1,1,Yes,The event was very informative and well organized.,0.2,Positive
+32,Workshop,CE,3rd Year,4,4,5,2,Yes,Good experience but could be improved.,0.7,Positive
+33,Cultural Fest,MBA,1st Year,2,1,3,3,Yes,The event was very informative and well organized.,0.2,Positive
+34,Cultural Fest,MBA,1st Year,5,2,5,5,No,Good experience but could be improved.,0.7,Positive
+35,Workshop,ECE,Final Year,3,5,5,2,Yes,Not satisfied with the arrangements.,-0.25,Negative
+36,Tech Fest,CE,3rd Year,4,4,3,2,Yes,Not satisfied with the arrangements.,-0.25,Negative
+37,Tech Fest,CSE,2nd Year,4,4,4,2,No,Good experience but could be improved.,0.7,Positive
+38,Seminar,ECE,1st Year,4,4,4,2,Yes,Overall a decent experience.,0.083333333,Neutral
+39,Tech Fest,EE,2nd Year,1,4,5,1,No,Poor management but topic was interesting.,0.05,Neutral
+40,Workshop,EE,Final Year,1,4,4,4,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+41,Workshop,ME,1st Year,4,4,2,3,No,Poor management but topic was interesting.,0.05,Neutral
+42,Sports Meet,CSE,2nd Year,5,1,3,3,Yes,Good experience but could be improved.,0.7,Positive
+43,Workshop,CE,1st Year,3,1,4,4,No,The event was very informative and well organized.,0.2,Positive
+44,Tech Fest,CSE,2nd Year,3,5,4,3,No,Good experience but could be improved.,0.7,Positive
+45,Seminar,EE,3rd Year,4,2,5,2,Yes,Overall a decent experience.,0.083333333,Neutral
+46,Sports Meet,CE,3rd Year,4,3,1,1,Yes,Excellent speakers and great content.,0.9,Positive
+47,Tech Fest,CSE,Final Year,3,1,4,2,Yes,Excellent speakers and great content.,0.9,Positive
+48,Seminar,MBA,1st Year,5,3,1,2,No,Not satisfied with the arrangements.,-0.25,Negative
+49,Tech Fest,ECE,2nd Year,1,5,3,1,Yes,The event was very informative and well organized.,0.2,Positive
+50,Sports Meet,CE,Final Year,1,2,1,5,Yes,Good experience but could be improved.,0.7,Positive
+51,Workshop,MBA,3rd Year,4,1,4,3,No,Not satisfied with the arrangements.,-0.25,Negative
+52,Sports Meet,ECE,3rd Year,3,1,2,1,No,Poor management but topic was interesting.,0.05,Neutral
+53,Workshop,CSE,Final Year,1,2,2,4,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+54,Sports Meet,CE,1st Year,5,2,3,4,Yes,Overall a decent experience.,0.083333333,Neutral
+55,Cultural Fest,ME,2nd Year,4,3,4,4,Yes,Overall a decent experience.,0.083333333,Neutral
+56,Tech Fest,ME,3rd Year,2,3,3,5,No,Poor management but topic was interesting.,0.05,Neutral
+57,Tech Fest,EE,Final Year,4,2,5,1,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+58,Cultural Fest,MBA,3rd Year,2,1,5,5,Yes,Excellent speakers and great content.,0.9,Positive
+59,Workshop,CE,3rd Year,4,4,1,4,No,"Average event, expected more interaction.",0.083333333,Neutral
+60,Tech Fest,MBA,2nd Year,3,5,3,2,Yes,Excellent speakers and great content.,0.9,Positive
+61,Cultural Fest,CSE,1st Year,3,5,2,2,No,Good experience but could be improved.,0.7,Positive
+62,Tech Fest,ME,1st Year,3,3,3,5,No,Poor management but topic was interesting.,0.05,Neutral
+63,Seminar,MBA,2nd Year,3,2,1,4,Yes,Good experience but could be improved.,0.7,Positive
+64,Workshop,EE,Final Year,5,1,4,4,No,Not satisfied with the arrangements.,-0.25,Negative
+65,Seminar,CE,Final Year,5,1,3,4,Yes,The event was very informative and well organized.,0.2,Positive
+66,Workshop,ME,1st Year,2,3,1,4,No,The event was very informative and well organized.,0.2,Positive
+67,Cultural Fest,MBA,3rd Year,5,3,5,1,No,Not satisfied with the arrangements.,-0.25,Negative
+68,Workshop,MBA,3rd Year,4,4,2,5,Yes,Good experience but could be improved.,0.7,Positive
+69,Workshop,CE,Final Year,3,5,4,5,Yes,The event was very informative and well organized.,0.2,Positive
+70,Cultural Fest,EE,2nd Year,1,5,3,1,No,Excellent speakers and great content.,0.9,Positive
+71,Workshop,CSE,3rd Year,1,5,3,2,No,Overall a decent experience.,0.083333333,Neutral
+72,Tech Fest,EE,Final Year,1,3,2,5,Yes,Overall a decent experience.,0.083333333,Neutral
+73,Sports Meet,CSE,2nd Year,4,4,5,3,No,Not satisfied with the arrangements.,-0.25,Negative
+74,Cultural Fest,ECE,1st Year,1,2,3,5,No,Overall a decent experience.,0.083333333,Neutral
+75,Sports Meet,MBA,2nd Year,1,3,2,5,No,Poor management but topic was interesting.,0.05,Neutral
+76,Cultural Fest,MBA,1st Year,2,4,2,2,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+77,Cultural Fest,ME,Final Year,4,3,4,1,Yes,Not satisfied with the arrangements.,-0.25,Negative
+78,Seminar,ECE,2nd Year,4,2,2,2,No,Poor management but topic was interesting.,0.05,Neutral
+79,Seminar,MBA,Final Year,1,2,2,2,Yes,Good experience but could be improved.,0.7,Positive
+80,Workshop,CSE,1st Year,4,4,2,1,No,Excellent speakers and great content.,0.9,Positive
+81,Sports Meet,CE,3rd Year,2,1,3,3,Yes,Excellent speakers and great content.,0.9,Positive
+82,Cultural Fest,CSE,3rd Year,2,2,2,1,Yes,The event was very informative and well organized.,0.2,Positive
+83,Workshop,MBA,1st Year,3,2,2,2,No,"Average event, expected more interaction.",0.083333333,Neutral
+84,Tech Fest,MBA,3rd Year,2,2,2,1,No,Good experience but could be improved.,0.7,Positive
+85,Cultural Fest,CSE,3rd Year,3,2,2,5,No,The event was very informative and well organized.,0.2,Positive
+86,Tech Fest,CE,2nd Year,1,1,5,5,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+87,Workshop,ECE,2nd Year,3,5,3,3,No,The event was very informative and well organized.,0.2,Positive
+88,Seminar,MBA,3rd Year,3,5,2,3,No,"Average event, expected more interaction.",0.083333333,Neutral
+89,Workshop,ME,2nd Year,1,2,1,1,Yes,Overall a decent experience.,0.083333333,Neutral
+90,Tech Fest,CSE,1st Year,3,1,1,1,Yes,Excellent speakers and great content.,0.9,Positive
+91,Cultural Fest,CSE,2nd Year,2,3,1,1,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+92,Sports Meet,ME,2nd Year,1,1,4,4,Yes,Not satisfied with the arrangements.,-0.25,Negative
+93,Workshop,CSE,2nd Year,4,4,5,2,No,"Average event, expected more interaction.",0.083333333,Neutral
+94,Cultural Fest,ME,Final Year,3,3,1,2,Yes,Good experience but could be improved.,0.7,Positive
+95,Seminar,ME,1st Year,2,5,5,3,Yes,Poor management but topic was interesting.,0.05,Neutral
+96,Seminar,ME,3rd Year,4,5,1,5,No,Overall a decent experience.,0.083333333,Neutral
+97,Seminar,CE,3rd Year,1,1,4,5,Yes,Excellent speakers and great content.,0.9,Positive
+98,Cultural Fest,ECE,Final Year,1,5,3,5,Yes,Overall a decent experience.,0.083333333,Neutral
+99,Workshop,ECE,2nd Year,1,1,5,5,No,Not satisfied with the arrangements.,-0.25,Negative
+100,Cultural Fest,EE,1st Year,2,1,3,2,No,The event was very informative and well organized.,0.2,Positive
+101,Cultural Fest,CE,1st Year,4,1,4,4,No,Good experience but could be improved.,0.7,Positive
+102,Sports Meet,EE,3rd Year,1,1,5,5,No,Excellent speakers and great content.,0.9,Positive
+103,Sports Meet,MBA,Final Year,2,1,3,3,No,Excellent speakers and great content.,0.9,Positive
+104,Workshop,ECE,Final Year,5,4,4,1,Yes,Overall a decent experience.,0.083333333,Neutral
+105,Sports Meet,ECE,Final Year,2,4,2,1,Yes,Overall a decent experience.,0.083333333,Neutral
+106,Seminar,ECE,Final Year,5,4,5,3,No,Overall a decent experience.,0.083333333,Neutral
+107,Sports Meet,CSE,1st Year,4,1,3,3,No,The event was very informative and well organized.,0.2,Positive
+108,Seminar,EE,2nd Year,1,5,4,3,No,Overall a decent experience.,0.083333333,Neutral
+109,Workshop,CE,3rd Year,1,3,2,4,No,"Average event, expected more interaction.",0.083333333,Neutral
+110,Cultural Fest,EE,1st Year,3,4,5,1,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+111,Cultural Fest,MBA,Final Year,1,2,2,4,No,Poor management but topic was interesting.,0.05,Neutral
+112,Sports Meet,ECE,Final Year,4,2,1,5,No,Not satisfied with the arrangements.,-0.25,Negative
+113,Seminar,CE,3rd Year,2,1,5,1,No,The event was very informative and well organized.,0.2,Positive
+114,Tech Fest,EE,2nd Year,4,3,4,3,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+115,Tech Fest,ECE,2nd Year,1,4,4,4,Yes,The event was very informative and well organized.,0.2,Positive
+116,Tech Fest,ECE,2nd Year,2,1,5,2,Yes,Good experience but could be improved.,0.7,Positive
+117,Cultural Fest,CE,Final Year,4,5,1,1,No,Not satisfied with the arrangements.,-0.25,Negative
+118,Cultural Fest,MBA,1st Year,1,3,5,3,Yes,Not satisfied with the arrangements.,-0.25,Negative
+119,Seminar,ME,1st Year,1,5,3,3,Yes,Overall a decent experience.,0.083333333,Neutral
+120,Sports Meet,CE,2nd Year,1,5,4,5,No,Poor management but topic was interesting.,0.05,Neutral
+121,Tech Fest,ME,3rd Year,3,2,2,4,Yes,The event was very informative and well organized.,0.2,Positive
+122,Seminar,MBA,2nd Year,3,4,4,5,No,Overall a decent experience.,0.083333333,Neutral
+123,Seminar,CSE,2nd Year,3,1,1,2,Yes,Not satisfied with the arrangements.,-0.25,Negative
+124,Sports Meet,CE,3rd Year,2,5,5,2,Yes,Overall a decent experience.,0.083333333,Neutral
+125,Seminar,ME,2nd Year,4,5,4,5,Yes,Overall a decent experience.,0.083333333,Neutral
+126,Sports Meet,MBA,3rd Year,2,1,3,1,No,"Average event, expected more interaction.",0.083333333,Neutral
+127,Workshop,EE,3rd Year,2,3,1,1,Yes,The event was very informative and well organized.,0.2,Positive
+128,Sports Meet,ECE,1st Year,1,1,1,5,Yes,The event was very informative and well organized.,0.2,Positive
+129,Tech Fest,CSE,3rd Year,5,1,2,5,No,Not satisfied with the arrangements.,-0.25,Negative
+130,Tech Fest,CE,2nd Year,5,4,4,1,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+131,Sports Meet,ME,3rd Year,1,2,5,4,Yes,Good experience but could be improved.,0.7,Positive
+132,Workshop,EE,2nd Year,5,5,1,5,Yes,Poor management but topic was interesting.,0.05,Neutral
+133,Workshop,ME,3rd Year,2,2,3,3,No,Not satisfied with the arrangements.,-0.25,Negative
+134,Tech Fest,MBA,1st Year,4,3,3,4,No,Overall a decent experience.,0.083333333,Neutral
+135,Workshop,CE,2nd Year,3,5,5,5,Yes,Good experience but could be improved.,0.7,Positive
+136,Seminar,MBA,2nd Year,2,2,3,3,No,Overall a decent experience.,0.083333333,Neutral
+137,Cultural Fest,ME,2nd Year,2,3,2,3,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+138,Seminar,CE,3rd Year,4,4,5,5,No,Overall a decent experience.,0.083333333,Neutral
+139,Tech Fest,ME,1st Year,5,3,3,5,No,Not satisfied with the arrangements.,-0.25,Negative
+140,Workshop,ECE,1st Year,4,2,2,5,Yes,The event was very informative and well organized.,0.2,Positive
+141,Sports Meet,CE,1st Year,2,1,3,3,No,Excellent speakers and great content.,0.9,Positive
+142,Cultural Fest,CE,1st Year,1,5,4,2,Yes,Poor management but topic was interesting.,0.05,Neutral
+143,Sports Meet,CSE,3rd Year,1,4,5,5,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+144,Tech Fest,ECE,2nd Year,2,2,3,5,Yes,Overall a decent experience.,0.083333333,Neutral
+145,Workshop,CE,Final Year,1,4,3,4,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+146,Sports Meet,EE,1st Year,5,3,2,5,No,Overall a decent experience.,0.083333333,Neutral
+147,Sports Meet,ME,Final Year,4,2,4,4,No,"Average event, expected more interaction.",0.083333333,Neutral
+148,Cultural Fest,EE,3rd Year,3,1,4,4,No,"Average event, expected more interaction.",0.083333333,Neutral
+149,Cultural Fest,ME,3rd Year,4,1,2,2,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+150,Workshop,MBA,Final Year,3,1,4,5,No,Overall a decent experience.,0.083333333,Neutral
+151,Cultural Fest,ME,2nd Year,2,1,3,2,No,Excellent speakers and great content.,0.9,Positive
+152,Sports Meet,CSE,Final Year,2,5,3,3,No,Poor management but topic was interesting.,0.05,Neutral
+153,Sports Meet,MBA,3rd Year,3,4,4,2,No,Not satisfied with the arrangements.,-0.25,Negative
+154,Tech Fest,CE,Final Year,1,2,3,1,Yes,Not satisfied with the arrangements.,-0.25,Negative
+155,Sports Meet,ME,1st Year,2,1,4,1,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+156,Workshop,CSE,1st Year,5,5,2,1,Yes,Overall a decent experience.,0.083333333,Neutral
+157,Seminar,EE,2nd Year,5,1,5,4,No,Excellent speakers and great content.,0.9,Positive
+158,Tech Fest,MBA,Final Year,5,1,2,1,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+159,Tech Fest,MBA,Final Year,5,3,5,2,No,Poor management but topic was interesting.,0.05,Neutral
+160,Workshop,CSE,Final Year,3,2,2,5,No,Good experience but could be improved.,0.7,Positive
+161,Workshop,EE,Final Year,1,4,1,4,No,Overall a decent experience.,0.083333333,Neutral
+162,Cultural Fest,MBA,2nd Year,3,3,3,4,Yes,Excellent speakers and great content.,0.9,Positive
+163,Tech Fest,CE,3rd Year,2,3,2,1,Yes,Excellent speakers and great content.,0.9,Positive
+164,Cultural Fest,ME,2nd Year,5,4,5,3,No,"Average event, expected more interaction.",0.083333333,Neutral
+165,Sports Meet,ECE,3rd Year,5,1,4,3,No,Excellent speakers and great content.,0.9,Positive
+166,Tech Fest,EE,3rd Year,5,1,4,5,No,Overall a decent experience.,0.083333333,Neutral
+167,Tech Fest,ME,3rd Year,2,2,2,2,Yes,Good experience but could be improved.,0.7,Positive
+168,Seminar,ECE,Final Year,4,1,2,1,Yes,Not satisfied with the arrangements.,-0.25,Negative
+169,Tech Fest,MBA,2nd Year,3,3,2,2,No,Overall a decent experience.,0.083333333,Neutral
+170,Sports Meet,ECE,3rd Year,1,3,4,3,Yes,Poor management but topic was interesting.,0.05,Neutral
+171,Cultural Fest,EE,1st Year,2,3,1,3,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+172,Cultural Fest,ME,3rd Year,4,4,2,1,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+173,Seminar,MBA,2nd Year,4,1,4,3,Yes,The event was very informative and well organized.,0.2,Positive
+174,Sports Meet,MBA,Final Year,1,1,4,3,Yes,The event was very informative and well organized.,0.2,Positive
+175,Cultural Fest,MBA,1st Year,2,1,2,5,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+176,Workshop,MBA,3rd Year,4,1,5,5,Yes,Poor management but topic was interesting.,0.05,Neutral
+177,Sports Meet,ECE,Final Year,5,2,5,3,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+178,Sports Meet,MBA,2nd Year,1,2,3,1,Yes,Excellent speakers and great content.,0.9,Positive
+179,Seminar,CSE,2nd Year,5,3,4,1,No,Excellent speakers and great content.,0.9,Positive
+180,Cultural Fest,MBA,1st Year,1,3,3,3,No,The event was very informative and well organized.,0.2,Positive
+181,Sports Meet,MBA,1st Year,3,4,3,3,No,Good experience but could be improved.,0.7,Positive
+182,Cultural Fest,CSE,3rd Year,3,5,5,4,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+183,Workshop,ME,Final Year,2,3,5,5,Yes,Not satisfied with the arrangements.,-0.25,Negative
+184,Seminar,CE,Final Year,4,1,1,5,Yes,Good experience but could be improved.,0.7,Positive
+185,Workshop,CSE,2nd Year,5,3,4,1,No,"Average event, expected more interaction.",0.083333333,Neutral
+186,Seminar,EE,2nd Year,4,3,1,2,No,Good experience but could be improved.,0.7,Positive
+187,Sports Meet,ME,3rd Year,3,2,2,2,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+188,Seminar,MBA,3rd Year,5,1,1,3,No,Overall a decent experience.,0.083333333,Neutral
+189,Tech Fest,ECE,2nd Year,2,4,2,3,No,Poor management but topic was interesting.,0.05,Neutral
+190,Cultural Fest,CSE,2nd Year,4,4,3,4,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+191,Cultural Fest,ME,Final Year,1,4,4,4,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+192,Tech Fest,ME,Final Year,1,3,1,1,Yes,The event was very informative and well organized.,0.2,Positive
+193,Workshop,MBA,Final Year,5,4,4,2,Yes,Poor management but topic was interesting.,0.05,Neutral
+194,Tech Fest,CE,3rd Year,1,4,3,4,No,Excellent speakers and great content.,0.9,Positive
+195,Sports Meet,ECE,Final Year,1,4,3,2,No,Good experience but could be improved.,0.7,Positive
+196,Sports Meet,ECE,1st Year,3,2,3,4,Yes,The event was very informative and well organized.,0.2,Positive
+197,Cultural Fest,ECE,1st Year,2,1,3,5,No,Overall a decent experience.,0.083333333,Neutral
+198,Sports Meet,EE,Final Year,1,2,5,3,No,Overall a decent experience.,0.083333333,Neutral
+199,Cultural Fest,ME,Final Year,1,1,5,4,Yes,Good experience but could be improved.,0.7,Positive
+200,Tech Fest,EE,2nd Year,4,2,3,4,Yes,Good experience but could be improved.,0.7,Positive
+201,Tech Fest,EE,2nd Year,5,1,3,1,No,Good experience but could be improved.,0.7,Positive
+202,Tech Fest,ME,3rd Year,3,4,1,5,No,The event was very informative and well organized.,0.2,Positive
+203,Cultural Fest,ECE,1st Year,5,5,4,3,No,Good experience but could be improved.,0.7,Positive
+204,Tech Fest,ME,1st Year,4,4,1,5,No,Excellent speakers and great content.,0.9,Positive
+205,Tech Fest,CE,3rd Year,4,5,3,3,Yes,Good experience but could be improved.,0.7,Positive
+206,Workshop,ME,Final Year,4,4,5,5,No,"Average event, expected more interaction.",0.083333333,Neutral
+207,Tech Fest,MBA,Final Year,1,2,2,5,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+208,Sports Meet,ME,3rd Year,5,5,5,1,Yes,Excellent speakers and great content.,0.9,Positive
+209,Cultural Fest,CSE,1st Year,5,4,5,2,No,Poor management but topic was interesting.,0.05,Neutral
+210,Workshop,CE,1st Year,5,3,5,5,Yes,Overall a decent experience.,0.083333333,Neutral
+211,Seminar,CSE,Final Year,2,5,2,3,Yes,Overall a decent experience.,0.083333333,Neutral
+212,Cultural Fest,ECE,2nd Year,3,1,3,3,Yes,Good experience but could be improved.,0.7,Positive
+213,Sports Meet,ECE,3rd Year,1,2,3,1,No,Excellent speakers and great content.,0.9,Positive
+214,Cultural Fest,MBA,3rd Year,3,4,3,2,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+215,Sports Meet,MBA,Final Year,1,4,5,3,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+216,Sports Meet,MBA,3rd Year,5,1,4,1,Yes,Excellent speakers and great content.,0.9,Positive
+217,Seminar,CE,1st Year,2,4,4,3,No,Good experience but could be improved.,0.7,Positive
+218,Cultural Fest,EE,Final Year,2,4,1,4,No,"Average event, expected more interaction.",0.083333333,Neutral
+219,Seminar,ME,1st Year,5,1,4,5,Yes,Overall a decent experience.,0.083333333,Neutral
+220,Seminar,CSE,2nd Year,3,1,5,2,No,Not satisfied with the arrangements.,-0.25,Negative
+221,Cultural Fest,CE,3rd Year,4,3,3,5,Yes,The event was very informative and well organized.,0.2,Positive
+222,Tech Fest,CSE,3rd Year,5,3,4,5,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+223,Tech Fest,ME,1st Year,1,1,2,4,Yes,Overall a decent experience.,0.083333333,Neutral
+224,Seminar,EE,Final Year,3,5,2,2,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+225,Workshop,CSE,Final Year,4,5,3,5,Yes,Poor management but topic was interesting.,0.05,Neutral
+226,Seminar,CE,3rd Year,2,5,4,1,Yes,Excellent speakers and great content.,0.9,Positive
+227,Seminar,ME,1st Year,1,2,5,3,Yes,Good experience but could be improved.,0.7,Positive
+228,Seminar,MBA,2nd Year,2,3,5,3,No,Poor management but topic was interesting.,0.05,Neutral
+229,Tech Fest,MBA,1st Year,1,5,4,1,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+230,Tech Fest,MBA,Final Year,4,5,1,3,No,Not satisfied with the arrangements.,-0.25,Negative
+231,Tech Fest,ME,3rd Year,1,5,1,4,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+232,Seminar,EE,3rd Year,4,1,2,1,No,"Average event, expected more interaction.",0.083333333,Neutral
+233,Workshop,CE,3rd Year,5,4,3,4,No,Excellent speakers and great content.,0.9,Positive
+234,Tech Fest,MBA,2nd Year,5,2,2,2,Yes,Not satisfied with the arrangements.,-0.25,Negative
+235,Cultural Fest,ME,2nd Year,1,4,3,3,No,"Average event, expected more interaction.",0.083333333,Neutral
+236,Cultural Fest,CSE,Final Year,3,3,3,4,No,Excellent speakers and great content.,0.9,Positive
+237,Cultural Fest,MBA,1st Year,2,4,3,3,Yes,Not satisfied with the arrangements.,-0.25,Negative
+238,Sports Meet,ECE,1st Year,1,2,3,2,No,Not satisfied with the arrangements.,-0.25,Negative
+239,Seminar,CE,1st Year,1,5,5,5,No,Not satisfied with the arrangements.,-0.25,Negative
+240,Cultural Fest,CSE,2nd Year,2,5,4,3,No,Overall a decent experience.,0.083333333,Neutral
+241,Seminar,EE,3rd Year,1,1,3,2,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+242,Cultural Fest,EE,Final Year,2,1,4,1,Yes,The event was very informative and well organized.,0.2,Positive
+243,Workshop,ME,Final Year,4,2,3,3,No,Overall a decent experience.,0.083333333,Neutral
+244,Seminar,EE,2nd Year,3,5,5,1,No,Excellent speakers and great content.,0.9,Positive
+245,Cultural Fest,ECE,2nd Year,5,4,5,2,No,The event was very informative and well organized.,0.2,Positive
+246,Tech Fest,MBA,3rd Year,5,4,4,1,No,Good experience but could be improved.,0.7,Positive
+247,Seminar,CSE,3rd Year,3,2,4,4,No,Good experience but could be improved.,0.7,Positive
+248,Sports Meet,MBA,2nd Year,2,1,2,5,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+249,Tech Fest,CE,Final Year,3,4,2,1,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+250,Tech Fest,MBA,3rd Year,2,3,1,4,No,Not satisfied with the arrangements.,-0.25,Negative
+251,Sports Meet,ME,3rd Year,3,2,2,5,No,Excellent speakers and great content.,0.9,Positive
+252,Tech Fest,MBA,Final Year,1,3,2,2,No,Not satisfied with the arrangements.,-0.25,Negative
+253,Tech Fest,CE,3rd Year,1,3,3,2,No,The event was very informative and well organized.,0.2,Positive
+254,Cultural Fest,CSE,Final Year,3,1,1,3,Yes,Not satisfied with the arrangements.,-0.25,Negative
+255,Cultural Fest,ECE,1st Year,4,5,2,4,No,The event was very informative and well organized.,0.2,Positive
+256,Seminar,CSE,3rd Year,3,2,2,5,No,Excellent speakers and great content.,0.9,Positive
+257,Seminar,CSE,3rd Year,5,5,4,3,Yes,The event was very informative and well organized.,0.2,Positive
+258,Seminar,ME,1st Year,1,4,1,3,Yes,Poor management but topic was interesting.,0.05,Neutral
+259,Cultural Fest,CE,Final Year,3,4,1,2,Yes,Not satisfied with the arrangements.,-0.25,Negative
+260,Seminar,CSE,3rd Year,5,2,1,1,Yes,Not satisfied with the arrangements.,-0.25,Negative
+261,Tech Fest,CSE,1st Year,1,1,4,5,No,Poor management but topic was interesting.,0.05,Neutral
+262,Cultural Fest,ECE,Final Year,4,4,5,2,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+263,Seminar,EE,3rd Year,4,4,1,2,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+264,Tech Fest,ECE,2nd Year,5,5,1,1,Yes,The event was very informative and well organized.,0.2,Positive
+265,Seminar,CE,1st Year,3,4,4,4,No,Poor management but topic was interesting.,0.05,Neutral
+266,Workshop,CE,Final Year,1,1,5,4,Yes,Excellent speakers and great content.,0.9,Positive
+267,Seminar,ME,2nd Year,4,4,1,5,Yes,Not satisfied with the arrangements.,-0.25,Negative
+268,Workshop,MBA,Final Year,5,4,1,1,No,Overall a decent experience.,0.083333333,Neutral
+269,Seminar,MBA,2nd Year,2,3,3,1,No,"Average event, expected more interaction.",0.083333333,Neutral
+270,Sports Meet,MBA,2nd Year,3,1,5,3,No,Overall a decent experience.,0.083333333,Neutral
+271,Seminar,EE,1st Year,2,4,2,1,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+272,Cultural Fest,CE,1st Year,3,1,1,5,No,Not satisfied with the arrangements.,-0.25,Negative
+273,Cultural Fest,EE,2nd Year,1,1,4,1,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+274,Workshop,MBA,1st Year,5,4,3,3,Yes,Poor management but topic was interesting.,0.05,Neutral
+275,Cultural Fest,MBA,Final Year,1,4,2,4,Yes,Good experience but could be improved.,0.7,Positive
+276,Tech Fest,ECE,3rd Year,2,1,2,1,No,The event was very informative and well organized.,0.2,Positive
+277,Sports Meet,CE,Final Year,5,5,3,1,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+278,Sports Meet,MBA,2nd Year,1,5,4,5,No,Not satisfied with the arrangements.,-0.25,Negative
+279,Tech Fest,CSE,Final Year,1,1,2,3,Yes,Excellent speakers and great content.,0.9,Positive
+280,Workshop,CE,2nd Year,1,1,2,1,No,Poor management but topic was interesting.,0.05,Neutral
+281,Tech Fest,EE,Final Year,2,5,5,5,No,"Average event, expected more interaction.",0.083333333,Neutral
+282,Tech Fest,CE,Final Year,1,5,2,3,No,Good experience but could be improved.,0.7,Positive
+283,Sports Meet,ME,1st Year,4,3,1,2,No,Poor management but topic was interesting.,0.05,Neutral
+284,Seminar,CSE,2nd Year,3,5,1,3,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+285,Sports Meet,MBA,2nd Year,4,5,3,2,Yes,Excellent speakers and great content.,0.9,Positive
+286,Sports Meet,ME,3rd Year,2,2,3,2,Yes,The event was very informative and well organized.,0.2,Positive
+287,Cultural Fest,ECE,Final Year,2,4,4,3,Yes,The event was very informative and well organized.,0.2,Positive
+288,Tech Fest,CE,Final Year,1,3,4,3,No,Poor management but topic was interesting.,0.05,Neutral
+289,Sports Meet,CE,3rd Year,5,3,5,5,No,"Average event, expected more interaction.",0.083333333,Neutral
+290,Tech Fest,ECE,2nd Year,4,1,3,3,No,Poor management but topic was interesting.,0.05,Neutral
+291,Cultural Fest,ME,Final Year,2,2,5,4,Yes,Not satisfied with the arrangements.,-0.25,Negative
+292,Tech Fest,CSE,3rd Year,3,4,4,1,No,Good experience but could be improved.,0.7,Positive
+293,Sports Meet,MBA,3rd Year,2,3,2,3,No,The event was very informative and well organized.,0.2,Positive
+294,Tech Fest,ME,3rd Year,4,5,5,2,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+295,Cultural Fest,EE,Final Year,3,5,2,2,No,Poor management but topic was interesting.,0.05,Neutral
+296,Seminar,MBA,2nd Year,3,5,5,3,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+297,Tech Fest,ME,2nd Year,1,4,5,1,Yes,Good experience but could be improved.,0.7,Positive
+298,Sports Meet,CSE,3rd Year,5,3,4,1,Yes,The event was very informative and well organized.,0.2,Positive
+299,Cultural Fest,CE,3rd Year,3,4,5,5,No,Good experience but could be improved.,0.7,Positive
+300,Sports Meet,ME,2nd Year,1,1,4,5,No,Overall a decent experience.,0.083333333,Neutral
+301,Sports Meet,ECE,3rd Year,5,1,5,5,Yes,Poor management but topic was interesting.,0.05,Neutral
+302,Tech Fest,CSE,3rd Year,1,2,5,1,No,The event was very informative and well organized.,0.2,Positive
+303,Sports Meet,CE,2nd Year,2,1,3,2,No,Overall a decent experience.,0.083333333,Neutral
+304,Tech Fest,CSE,Final Year,2,3,3,5,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+305,Seminar,MBA,3rd Year,5,3,4,3,No,"Average event, expected more interaction.",0.083333333,Neutral
+306,Sports Meet,ECE,Final Year,1,3,5,5,No,"Average event, expected more interaction.",0.083333333,Neutral
+307,Sports Meet,MBA,3rd Year,4,5,2,3,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+308,Sports Meet,MBA,3rd Year,1,5,1,3,No,Poor management but topic was interesting.,0.05,Neutral
+309,Workshop,EE,3rd Year,4,3,4,2,Yes,Poor management but topic was interesting.,0.05,Neutral
+310,Workshop,CSE,1st Year,3,1,3,3,No,Excellent speakers and great content.,0.9,Positive
+311,Cultural Fest,CSE,Final Year,3,1,3,5,Yes,Not satisfied with the arrangements.,-0.25,Negative
+312,Workshop,ME,Final Year,3,2,4,2,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+313,Cultural Fest,ECE,3rd Year,1,4,3,2,Yes,Good experience but could be improved.,0.7,Positive
+314,Workshop,ECE,2nd Year,5,2,2,1,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+315,Seminar,EE,3rd Year,4,4,3,3,No,"Average event, expected more interaction.",0.083333333,Neutral
+316,Cultural Fest,ECE,1st Year,1,1,1,5,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+317,Workshop,CSE,3rd Year,3,3,1,3,No,Overall a decent experience.,0.083333333,Neutral
+318,Seminar,EE,1st Year,2,5,5,5,Yes,Good experience but could be improved.,0.7,Positive
+319,Workshop,ECE,3rd Year,3,2,2,4,Yes,Excellent speakers and great content.,0.9,Positive
+320,Tech Fest,EE,Final Year,5,2,3,1,No,Not satisfied with the arrangements.,-0.25,Negative
+321,Tech Fest,ECE,3rd Year,3,1,3,2,No,Not satisfied with the arrangements.,-0.25,Negative
+322,Seminar,ECE,Final Year,5,4,4,1,No,Good experience but could be improved.,0.7,Positive
+323,Sports Meet,ME,2nd Year,2,2,5,4,No,Good experience but could be improved.,0.7,Positive
+324,Sports Meet,ECE,2nd Year,4,4,1,1,Yes,The event was very informative and well organized.,0.2,Positive
+325,Tech Fest,EE,3rd Year,3,2,4,1,No,Not satisfied with the arrangements.,-0.25,Negative
+326,Tech Fest,CSE,3rd Year,5,3,4,4,No,Excellent speakers and great content.,0.9,Positive
+327,Sports Meet,ME,2nd Year,4,1,3,1,Yes,Overall a decent experience.,0.083333333,Neutral
+328,Cultural Fest,ECE,1st Year,2,4,1,1,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+329,Sports Meet,ECE,2nd Year,5,1,4,4,Yes,Overall a decent experience.,0.083333333,Neutral
+330,Workshop,EE,2nd Year,2,5,3,4,Yes,Good experience but could be improved.,0.7,Positive
+331,Cultural Fest,ME,1st Year,2,1,5,2,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+332,Workshop,ECE,2nd Year,1,4,2,5,No,Not satisfied with the arrangements.,-0.25,Negative
+333,Tech Fest,CSE,2nd Year,4,4,1,5,No,Not satisfied with the arrangements.,-0.25,Negative
+334,Cultural Fest,MBA,1st Year,1,5,5,4,No,Poor management but topic was interesting.,0.05,Neutral
+335,Workshop,CSE,1st Year,2,5,3,5,No,Overall a decent experience.,0.083333333,Neutral
+336,Workshop,ECE,Final Year,5,2,2,3,No,Not satisfied with the arrangements.,-0.25,Negative
+337,Cultural Fest,CSE,3rd Year,3,4,4,3,Yes,Overall a decent experience.,0.083333333,Neutral
+338,Seminar,ME,Final Year,1,1,5,3,No,Overall a decent experience.,0.083333333,Neutral
+339,Sports Meet,ECE,1st Year,3,5,4,2,Yes,Not satisfied with the arrangements.,-0.25,Negative
+340,Workshop,EE,2nd Year,1,1,4,5,Yes,Excellent speakers and great content.,0.9,Positive
+341,Sports Meet,ME,1st Year,4,5,2,1,Yes,Excellent speakers and great content.,0.9,Positive
+342,Sports Meet,CSE,2nd Year,3,4,2,4,No,Excellent speakers and great content.,0.9,Positive
+343,Tech Fest,ECE,Final Year,1,5,4,5,No,Overall a decent experience.,0.083333333,Neutral
+344,Sports Meet,ME,Final Year,2,4,4,2,No,Overall a decent experience.,0.083333333,Neutral
+345,Workshop,CSE,Final Year,5,5,2,1,No,Excellent speakers and great content.,0.9,Positive
+346,Tech Fest,ECE,2nd Year,2,2,3,4,No,Good experience but could be improved.,0.7,Positive
+347,Cultural Fest,MBA,3rd Year,4,5,1,1,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+348,Workshop,CE,3rd Year,4,2,4,4,Yes,Overall a decent experience.,0.083333333,Neutral
+349,Tech Fest,EE,3rd Year,1,2,2,3,Yes,Overall a decent experience.,0.083333333,Neutral
+350,Tech Fest,CSE,1st Year,2,1,5,4,Yes,The event was very informative and well organized.,0.2,Positive
+351,Sports Meet,MBA,1st Year,3,4,5,4,Yes,Excellent speakers and great content.,0.9,Positive
+352,Cultural Fest,CSE,2nd Year,1,5,3,2,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+353,Workshop,CE,1st Year,1,5,3,2,Yes,Good experience but could be improved.,0.7,Positive
+354,Workshop,CE,2nd Year,2,3,5,2,No,Not satisfied with the arrangements.,-0.25,Negative
+355,Sports Meet,ME,Final Year,5,5,3,5,No,Good experience but could be improved.,0.7,Positive
+356,Cultural Fest,EE,2nd Year,4,4,4,3,Yes,Good experience but could be improved.,0.7,Positive
+357,Workshop,EE,1st Year,3,4,2,3,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+358,Cultural Fest,CSE,Final Year,4,5,1,4,Yes,Poor management but topic was interesting.,0.05,Neutral
+359,Workshop,CE,Final Year,1,2,2,2,Yes,The event was very informative and well organized.,0.2,Positive
+360,Sports Meet,EE,2nd Year,5,3,2,3,No,Excellent speakers and great content.,0.9,Positive
+361,Seminar,ECE,3rd Year,1,4,3,3,No,Good experience but could be improved.,0.7,Positive
+362,Workshop,EE,1st Year,5,3,1,4,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+363,Tech Fest,CSE,1st Year,2,3,4,4,No,Poor management but topic was interesting.,0.05,Neutral
+364,Tech Fest,MBA,3rd Year,4,4,5,1,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+365,Seminar,MBA,1st Year,1,2,4,1,No,Poor management but topic was interesting.,0.05,Neutral
+366,Workshop,EE,3rd Year,5,2,3,4,No,Poor management but topic was interesting.,0.05,Neutral
+367,Tech Fest,ME,3rd Year,5,4,5,1,Yes,Overall a decent experience.,0.083333333,Neutral
+368,Tech Fest,CE,Final Year,1,5,4,3,No,The event was very informative and well organized.,0.2,Positive
+369,Workshop,MBA,Final Year,4,5,2,4,Yes,Excellent speakers and great content.,0.9,Positive
+370,Cultural Fest,CSE,2nd Year,2,3,3,4,Yes,Excellent speakers and great content.,0.9,Positive
+371,Workshop,CSE,Final Year,2,5,1,2,Yes,Not satisfied with the arrangements.,-0.25,Negative
+372,Cultural Fest,CE,3rd Year,3,3,2,3,Yes,The event was very informative and well organized.,0.2,Positive
+373,Seminar,CE,2nd Year,3,5,1,3,Yes,Poor management but topic was interesting.,0.05,Neutral
+374,Sports Meet,CE,1st Year,3,2,5,5,Yes,Poor management but topic was interesting.,0.05,Neutral
+375,Seminar,MBA,3rd Year,4,2,1,5,No,"Average event, expected more interaction.",0.083333333,Neutral
+376,Sports Meet,CSE,2nd Year,3,2,2,2,Yes,Excellent speakers and great content.,0.9,Positive
+377,Tech Fest,CE,Final Year,3,5,1,5,Yes,Overall a decent experience.,0.083333333,Neutral
+378,Tech Fest,MBA,3rd Year,4,3,3,1,Yes,The event was very informative and well organized.,0.2,Positive
+379,Tech Fest,CE,2nd Year,3,3,3,4,Yes,Good experience but could be improved.,0.7,Positive
+380,Cultural Fest,CSE,1st Year,2,2,2,1,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+381,Sports Meet,CSE,3rd Year,1,2,4,3,Yes,Good experience but could be improved.,0.7,Positive
+382,Tech Fest,ME,3rd Year,2,5,1,5,Yes,The event was very informative and well organized.,0.2,Positive
+383,Workshop,EE,2nd Year,2,5,2,1,Yes,Not satisfied with the arrangements.,-0.25,Negative
+384,Sports Meet,ECE,2nd Year,5,3,1,3,No,Overall a decent experience.,0.083333333,Neutral
+385,Sports Meet,CSE,Final Year,1,1,2,5,No,Poor management but topic was interesting.,0.05,Neutral
+386,Cultural Fest,ECE,Final Year,2,3,1,4,Yes,Overall a decent experience.,0.083333333,Neutral
+387,Seminar,ME,3rd Year,1,5,4,4,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+388,Cultural Fest,EE,1st Year,2,4,2,5,Yes,Not satisfied with the arrangements.,-0.25,Negative
+389,Tech Fest,MBA,Final Year,4,5,3,4,Yes,Overall a decent experience.,0.083333333,Neutral
+390,Workshop,EE,1st Year,4,5,4,2,Yes,Excellent speakers and great content.,0.9,Positive
+391,Workshop,EE,2nd Year,3,4,3,5,No,Excellent speakers and great content.,0.9,Positive
+392,Tech Fest,MBA,2nd Year,4,5,4,2,Yes,Overall a decent experience.,0.083333333,Neutral
+393,Workshop,ME,Final Year,1,3,3,5,No,Overall a decent experience.,0.083333333,Neutral
+394,Cultural Fest,CE,3rd Year,5,4,4,2,Yes,Overall a decent experience.,0.083333333,Neutral
+395,Cultural Fest,EE,2nd Year,3,1,1,4,Yes,Excellent speakers and great content.,0.9,Positive
+396,Tech Fest,EE,1st Year,2,5,3,4,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+397,Workshop,ME,3rd Year,4,1,1,1,Yes,Good experience but could be improved.,0.7,Positive
+398,Sports Meet,CE,Final Year,3,1,2,3,Yes,Not satisfied with the arrangements.,-0.25,Negative
+399,Seminar,EE,2nd Year,4,4,1,2,Yes,Not satisfied with the arrangements.,-0.25,Negative
+400,Sports Meet,EE,Final Year,3,2,3,5,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+401,Cultural Fest,CE,3rd Year,1,1,4,4,Yes,Not satisfied with the arrangements.,-0.25,Negative
+402,Cultural Fest,CSE,3rd Year,1,1,1,4,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+403,Cultural Fest,MBA,3rd Year,2,2,5,5,No,The event was very informative and well organized.,0.2,Positive
+404,Cultural Fest,CSE,1st Year,3,3,4,3,Yes,Overall a decent experience.,0.083333333,Neutral
+405,Seminar,MBA,3rd Year,5,2,2,5,Yes,Poor management but topic was interesting.,0.05,Neutral
+406,Tech Fest,MBA,3rd Year,1,3,2,2,Yes,Good experience but could be improved.,0.7,Positive
+407,Cultural Fest,EE,2nd Year,2,3,3,2,No,Excellent speakers and great content.,0.9,Positive
+408,Workshop,MBA,1st Year,3,2,4,1,No,The event was very informative and well organized.,0.2,Positive
+409,Seminar,ECE,1st Year,2,1,1,5,No,Poor management but topic was interesting.,0.05,Neutral
+410,Cultural Fest,CE,Final Year,1,3,1,4,Yes,Good experience but could be improved.,0.7,Positive
+411,Workshop,CE,3rd Year,2,2,2,1,Yes,Good experience but could be improved.,0.7,Positive
+412,Cultural Fest,ECE,2nd Year,3,5,4,5,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+413,Tech Fest,CE,Final Year,4,1,4,5,Yes,The event was very informative and well organized.,0.2,Positive
+414,Seminar,ME,3rd Year,5,3,2,4,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+415,Tech Fest,CE,1st Year,1,4,1,3,Yes,Overall a decent experience.,0.083333333,Neutral
+416,Seminar,CE,3rd Year,3,1,2,5,Yes,The event was very informative and well organized.,0.2,Positive
+417,Cultural Fest,CE,3rd Year,3,5,4,1,No,Good experience but could be improved.,0.7,Positive
+418,Cultural Fest,MBA,2nd Year,2,5,1,4,Yes,Excellent speakers and great content.,0.9,Positive
+419,Seminar,CSE,2nd Year,1,2,5,2,Yes,The event was very informative and well organized.,0.2,Positive
+420,Workshop,ME,2nd Year,4,5,2,3,Yes,Poor management but topic was interesting.,0.05,Neutral
+421,Workshop,CE,Final Year,4,4,4,4,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+422,Cultural Fest,ME,2nd Year,5,2,4,1,No,"Average event, expected more interaction.",0.083333333,Neutral
+423,Cultural Fest,MBA,Final Year,5,5,3,5,No,Overall a decent experience.,0.083333333,Neutral
+424,Tech Fest,ME,3rd Year,2,3,3,1,Yes,Good experience but could be improved.,0.7,Positive
+425,Cultural Fest,ME,Final Year,1,1,2,5,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+426,Seminar,ECE,Final Year,4,4,1,4,Yes,Not satisfied with the arrangements.,-0.25,Negative
+427,Workshop,MBA,2nd Year,1,4,5,3,Yes,The event was very informative and well organized.,0.2,Positive
+428,Workshop,CE,2nd Year,2,4,5,4,No,Overall a decent experience.,0.083333333,Neutral
+429,Tech Fest,CSE,1st Year,1,3,1,1,No,The event was very informative and well organized.,0.2,Positive
+430,Workshop,CSE,Final Year,1,5,3,1,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+431,Workshop,CSE,3rd Year,1,1,4,2,Yes,Not satisfied with the arrangements.,-0.25,Negative
+432,Sports Meet,CSE,1st Year,2,1,3,2,Yes,Excellent speakers and great content.,0.9,Positive
+433,Seminar,CE,1st Year,2,3,2,5,No,Not satisfied with the arrangements.,-0.25,Negative
+434,Sports Meet,CSE,1st Year,2,2,3,1,Yes,The event was very informative and well organized.,0.2,Positive
+435,Workshop,MBA,2nd Year,4,5,1,2,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+436,Tech Fest,MBA,2nd Year,3,4,2,2,Yes,Not satisfied with the arrangements.,-0.25,Negative
+437,Tech Fest,ME,2nd Year,1,2,1,4,No,Poor management but topic was interesting.,0.05,Neutral
+438,Workshop,ECE,3rd Year,5,3,2,5,Yes,Good experience but could be improved.,0.7,Positive
+439,Cultural Fest,EE,Final Year,5,5,4,3,Yes,Good experience but could be improved.,0.7,Positive
+440,Sports Meet,CSE,1st Year,3,5,3,4,No,Good experience but could be improved.,0.7,Positive
+441,Workshop,EE,2nd Year,1,5,1,5,No,Excellent speakers and great content.,0.9,Positive
+442,Tech Fest,EE,Final Year,1,2,2,5,No,Poor management but topic was interesting.,0.05,Neutral
+443,Tech Fest,EE,1st Year,1,2,3,4,Yes,Excellent speakers and great content.,0.9,Positive
+444,Sports Meet,ME,Final Year,2,3,5,2,Yes,Excellent speakers and great content.,0.9,Positive
+445,Seminar,MBA,1st Year,4,4,1,2,No,Poor management but topic was interesting.,0.05,Neutral
+446,Workshop,CSE,Final Year,2,2,4,3,No,Good experience but could be improved.,0.7,Positive
+447,Workshop,CE,2nd Year,1,1,2,3,Yes,Excellent speakers and great content.,0.9,Positive
+448,Seminar,ME,Final Year,3,2,1,5,No,Poor management but topic was interesting.,0.05,Neutral
+449,Sports Meet,MBA,Final Year,1,2,1,3,No,Not satisfied with the arrangements.,-0.25,Negative
+450,Sports Meet,CE,1st Year,1,5,5,4,No,Excellent speakers and great content.,0.9,Positive
+451,Tech Fest,MBA,Final Year,4,1,4,3,No,The event was very informative and well organized.,0.2,Positive
+452,Seminar,CSE,3rd Year,1,4,5,1,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+453,Sports Meet,ME,1st Year,2,1,2,5,Yes,Excellent speakers and great content.,0.9,Positive
+454,Cultural Fest,EE,Final Year,5,4,3,1,No,The event was very informative and well organized.,0.2,Positive
+455,Workshop,ME,3rd Year,4,3,1,5,No,The event was very informative and well organized.,0.2,Positive
+456,Tech Fest,ME,1st Year,4,5,2,5,No,Poor management but topic was interesting.,0.05,Neutral
+457,Seminar,CSE,2nd Year,4,3,2,4,Yes,Not satisfied with the arrangements.,-0.25,Negative
+458,Tech Fest,EE,1st Year,1,2,4,2,Yes,Good experience but could be improved.,0.7,Positive
+459,Sports Meet,EE,1st Year,4,2,1,3,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+460,Sports Meet,ECE,Final Year,4,5,5,1,No,Excellent speakers and great content.,0.9,Positive
+461,Cultural Fest,ECE,3rd Year,2,3,3,3,Yes,Not satisfied with the arrangements.,-0.25,Negative
+462,Workshop,MBA,1st Year,3,1,1,5,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+463,Seminar,CE,1st Year,2,3,1,1,No,Poor management but topic was interesting.,0.05,Neutral
+464,Tech Fest,ECE,1st Year,2,4,3,1,Yes,Not satisfied with the arrangements.,-0.25,Negative
+465,Workshop,CSE,Final Year,3,2,2,5,No,Good experience but could be improved.,0.7,Positive
+466,Sports Meet,ME,1st Year,3,1,5,3,No,The event was very informative and well organized.,0.2,Positive
+467,Workshop,EE,3rd Year,4,2,1,1,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+468,Tech Fest,ME,Final Year,2,3,2,3,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+469,Workshop,CSE,2nd Year,1,5,4,1,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+470,Sports Meet,ME,2nd Year,5,1,2,2,No,Overall a decent experience.,0.083333333,Neutral
+471,Workshop,EE,Final Year,5,5,3,4,No,Not satisfied with the arrangements.,-0.25,Negative
+472,Seminar,ECE,3rd Year,5,3,5,5,Yes,Good experience but could be improved.,0.7,Positive
+473,Workshop,CE,Final Year,2,4,3,4,Yes,Poor management but topic was interesting.,0.05,Neutral
+474,Seminar,EE,Final Year,3,5,4,3,Yes,The event was very informative and well organized.,0.2,Positive
+475,Workshop,EE,Final Year,4,5,2,4,No,"Loved the event, very engaging and useful.",0.506666667,Positive
+476,Sports Meet,EE,Final Year,4,3,1,4,Yes,Overall a decent experience.,0.083333333,Neutral
+477,Cultural Fest,MBA,1st Year,5,1,4,4,No,Not satisfied with the arrangements.,-0.25,Negative
+478,Cultural Fest,MBA,2nd Year,4,3,3,4,Yes,Good experience but could be improved.,0.7,Positive
+479,Seminar,EE,3rd Year,1,5,2,5,No,Overall a decent experience.,0.083333333,Neutral
+480,Seminar,CSE,1st Year,1,2,3,2,Yes,The event was very informative and well organized.,0.2,Positive
+481,Cultural Fest,EE,2nd Year,3,2,1,2,Yes,Not satisfied with the arrangements.,-0.25,Negative
+482,Sports Meet,MBA,Final Year,4,5,4,4,No,"Average event, expected more interaction.",0.083333333,Neutral
+483,Sports Meet,MBA,2nd Year,2,1,4,2,No,The event was very informative and well organized.,0.2,Positive
+484,Workshop,ME,2nd Year,4,5,5,2,No,Poor management but topic was interesting.,0.05,Neutral
+485,Seminar,CSE,1st Year,2,2,3,5,No,Good experience but could be improved.,0.7,Positive
+486,Sports Meet,ECE,1st Year,5,4,5,4,No,"Average event, expected more interaction.",0.083333333,Neutral
+487,Tech Fest,ME,3rd Year,2,5,4,3,No,Excellent speakers and great content.,0.9,Positive
+488,Workshop,MBA,Final Year,5,5,2,4,No,Poor management but topic was interesting.,0.05,Neutral
+489,Workshop,ME,Final Year,1,4,5,2,No,Not satisfied with the arrangements.,-0.25,Negative
+490,Cultural Fest,ME,Final Year,4,1,2,3,No,Overall a decent experience.,0.083333333,Neutral
+491,Seminar,ME,2nd Year,3,3,5,2,No,Good experience but could be improved.,0.7,Positive
+492,Sports Meet,CSE,2nd Year,4,2,3,2,Yes,"Average event, expected more interaction.",0.083333333,Neutral
+493,Sports Meet,ECE,Final Year,5,2,3,1,No,Excellent speakers and great content.,0.9,Positive
+494,Workshop,ECE,3rd Year,4,3,4,1,Yes,"Loved the event, very engaging and useful.",0.506666667,Positive
+495,Seminar,EE,2nd Year,3,3,3,1,Yes,Excellent speakers and great content.,0.9,Positive
+496,Seminar,MBA,3rd Year,5,3,5,2,No,"Average event, expected more interaction.",0.083333333,Neutral
+497,Seminar,CE,2nd Year,5,3,5,4,No,Not satisfied with the arrangements.,-0.25,Negative
+498,Cultural Fest,CSE,1st Year,3,2,2,4,No,Overall a decent experience.,0.083333333,Neutral
+499,Sports Meet,ECE,1st Year,4,5,1,2,Yes,The event was very informative and well organized.,0.2,Positive
+500,Seminar,MBA,Final Year,3,5,5,1,Yes,The event was very informative and well organized.,0.2,Positive
